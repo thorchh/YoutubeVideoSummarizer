@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "langchain": "^0.0.162",
+    "openai": "^4.11.1",
+    "youtube-transcript": "^1.0.6",
+    "youtubei.js": "^5.8.0"
+  }
+}
